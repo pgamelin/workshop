@@ -1,0 +1,8 @@
+{
+  "name": "nurunworkshop.maladiegrave",
+  "version": "0.0.5",
+  "main": ["./nurunworkshop.maladiegrave.jquery.js"],
+  "dependencies": {
+    "jquery": "~1.8.0"
+  }
+}
